@@ -1,0 +1,33 @@
+* {
+    background-color: rgb(206, 206, 206);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    text-indent: 50px;
+}
+
+.my-hr {
+    width: 200px;
+}
+
+.date-name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.my-h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    margin-left: 50px;
+}
+
+.my-h2 {
+    margin-left: 90px;
+    margin-right: 90px;
+    font-size: 15px;
+}
