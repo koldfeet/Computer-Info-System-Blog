@@ -58,7 +58,7 @@
 
 /* ----------col-two start------------ */
 .col-two {
-    background-color: lightcoral;
+    background-color: rgb(221, 221, 221);
     display: flex;
     flex-direction: column;
     flex-basis: 40%;
@@ -131,7 +131,7 @@
     border-top: 1px solid rgba(255,255,255, 0.1) ;
     border-bottom: 1px solid rgba(255,255,255, 0.1);
     border-radius: 30px;
-    color: white;
+    color: rgb(80, 80, 80);
     z-index: 1;
     font-weight: 400;
     letter-spacing: 1px;
@@ -170,7 +170,7 @@
     bottom: -5px;
     width: 30px;
     height: 10px;
-    background: rgb(0, 255, 34);
+    background: rgb(168, 18, 255);
     border-radius: 10px;
     transition: 0.5s;
     transition-delay: 0s;
