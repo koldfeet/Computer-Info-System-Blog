@@ -150,9 +150,6 @@ section {
 }
 
 /* ------------row two col one start---------------- */
-.row-two-col-one , .row-two-col-two , .row-two-col-three {
-    min-height: 400px;
-}
 
 .row-two-col-one {
     background-color: rgb(239, 247, 252);
@@ -183,11 +180,11 @@ li {
 }
 /* ------------row two col one end---------------- */
 .row-two-col-two {
-    background-color: lightcoral;
+    background-color: rgb(239, 247, 252);
 }
 
 .row-two-col-three {
-    background-color: lightgreen;
+    background-color: rgb(239, 247, 252);
 }
 
 /* -------------row two start---------------- */
