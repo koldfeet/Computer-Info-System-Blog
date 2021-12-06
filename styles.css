@@ -195,6 +195,27 @@ ul {
 /* ------------row two col one end---------------- */
 .row-two-col-two {
   background-color: rgb(239, 247, 252);
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+
+.my-iframe {
+  margin-top: 30px;
+}
+
+.row-two-h {
+  font-size: 18px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.row-two-h {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .row-two-col-three {
