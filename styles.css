@@ -232,6 +232,34 @@ ul {
 
 /* -------------row two start---------------- */
 
+/* -------------row three start---------------- */
+.row-three-col-one,
+.row-three-col-two,
+.row-three-col-three {
+  margin: 2px;
+  margin-left: 0.2em;
+  margin-bottom: 2em;
+  height: auto;
+  border-radius: 5px;
+  min-width: 300px;
+}
+
+.row-three-col-one {
+  background-color: rgb(239, 247, 252);
+  
+}
+
+.row-three-col-two {
+  background-color: rgb(239, 247, 252);
+}
+
+.row-three-col-three {
+  background-color: rgb(239, 247, 252);
+}
+
+
+/* -------------row three end---------------- */
+
 /* -----------------body grid end-------------- */
 
 /* -------------buttons start---------------- */
