@@ -246,7 +246,16 @@ ul {
 
 .row-three-col-one {
   background-color: rgb(239, 247, 252);
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.col-four-img {
+  height: 250px;
+  width: 220px;
 }
 
 .row-three-col-two {
