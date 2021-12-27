@@ -34,7 +34,7 @@ section {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 90vw;
+  width: 85vw;
 }
 
 .header {
@@ -62,7 +62,7 @@ section {
 /* -----------------body grid start-------------- */
 
 .row-one {
-  margin-top: 15px;
+  /* margin-top: .5px; */
   height: auto;
   border-radius: 5px;
   min-width: 300px;
@@ -72,8 +72,8 @@ section {
 .col-one , .col-two {
   background-color: rgb(239, 247, 252);
   box-shadow: 0 0 20px 1px rgb(219, 212, 253); 
-  margin: 15px;
-  min-width: 400px;
+  margin: 5px;
+  min-width: 300px;
 }
 
 .col-one {
@@ -154,7 +154,8 @@ section {
 .row-two-col-one,
 .row-two-col-two,
 .row-two-col-three {
-  margin: 15px;
+  margin: 5px;
+  /* margin-top: .5px; */
   height: auto;
   border-radius: 5px;
   min-width: 300px;
@@ -244,7 +245,7 @@ ul {
 .row-three-col-one,
 .row-three-col-two,
 .row-three-col-three {
-  margin: 15px;
+  margin: 5px;
   height: auto;
   border-radius: 5px;
   min-width: 300px;
