@@ -58,6 +58,9 @@ section {
 }
 
 /* -----------------body grid start-------------- */
+.container {
+  width: auto;
+}
 
 .row-one {
   /* margin-top: .5px; */
@@ -283,9 +286,33 @@ th , td {
 
 /* -------------row three end---------------- */
 
+/* -------------last row start---------------- */
+.my-hr {
+  border: 0;
+  clear: both;
+  display: block;
+  width: 100%;
+  background-color: #353535;
+  height: 1px;
+}
+
+.last-row-left , .last-row-right {
+  background-color: rgb(239, 247, 252);
+  height: auto;
+  margin-top: 5px;
+  padding: 15px;
+}
+
+.last-row-left {
+  min-width: 300px;
+}
+
+/* -------------last row end---------------- */
+
 /* -----------------body grid end-------------- */
 
 /* -------------buttons start---------------- */
+
 .my-link {
   color: rgb(207, 143, 24);
   font-size: 15px;
